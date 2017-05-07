@@ -1,0 +1,22 @@
+﻿<Window x:Name="MainMenu" x:Class="GroupProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gamer's Asylum Main Menu" Height="533.083" Width="602.258" Background="#FF122538" WindowStyle="ThreeDBorderWindow">
+    <Grid x:Name="updateInvoiceBtn" RenderTransformOrigin="0.448,0.563">
+        <DataGrid x:Name="dataGrid" Margin="155,103,38,135"/>
+        <Image Margin="10,10,0,0" VerticalAlignment="Top" Source="Gamer's Sanctuary.png"/>
+        <GroupBox Header="Menu" HorizontalAlignment="Left" Margin="23,89,0,70" Width="104" Foreground="#FFBBBBBB" VerticalAlignment="Top">
+            <Grid x:Name="grdMenu">
+                <Image x:Name="createNewInvoiceBtn" Width="52" Height="52" Margin="20,10,20,0" VerticalAlignment="Top" Source="makefg.png" Cursor="Hand" MouseDown="createNewInvoiceBtn_MouseDown" />
+                <Image x:Name="searchInvoiceBtn" Width="52" Height="52" Margin="20,111,19,161" Source="Inventory.png" Cursor="Hand" MouseDown="searchInvoiceBtn_MouseDown" RenderTransformOrigin="0.5,0.51"/>
+                <Image x:Name="inventoryBtn" Width="52" Height="52" Margin="20,0,20,58" VerticalAlignment="Bottom" Source="makefg.png" RenderTransformOrigin="0.5,0.5" Cursor="Hand" MouseDown="inventoryBtn_MouseDown"/>
+                <Label x:Name="newInvoiceLbl" Content="New Invoice" HorizontalAlignment="Left" Margin="5,57,0,0" VerticalAlignment="Top" Foreground="#FFE2E0E0" Cursor="Hand" MouseDown="createNewInvoiceBtn_MouseDown" Height="23" Width="77"/>
+                <Label x:Name="searcLbl" Content="Search Invoices" Margin="0,163,0,131" Foreground="#FFE2E0E0" Cursor="Hand" MouseDown="searchInvoiceBtn_MouseDown" VerticalAlignment="Center" Height="28"/>
+                <Label x:Name="inventoryLbl" Content="Inventory" HorizontalAlignment="Left" Margin="12,0,0,28" VerticalAlignment="Bottom" Foreground="#FFE2E0E0" Cursor="Hand" MouseDown="inventoryBtn_MouseDown" Height="30" Width="62"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="editInvoice" Content="Edit Invoice" HorizontalAlignment="Left" Margin="155,0,0,108" VerticalAlignment="Bottom" Width="84" Click="editnvoice"/>
+        <Button x:Name="deleteInvoiceBtn" Content="Delete Invoice" HorizontalAlignment="Left" Margin="244,0,0,108" VerticalAlignment="Bottom" Width="91" Click="deleteInvoiceBtn_Click"/>
+
+    </Grid>
+</Window>
