@@ -1,0 +1,9 @@
+c:\users\hcao\documents\visual studio 2015\Projects\CS3280-Assignment3\CS3280-Assignment3\bin\Debug\CS3280-Assignment3.exe.config
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\CS3280-Assignment3\CS3280-Assignment3\obj\Debug\CS3280-Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\CS3280-Assignment3\CS3280-Assignment3\obj\Debug\CS3280_Assignment3.Form1.resources
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\CS3280-Assignment3\CS3280-Assignment3\obj\Debug\CS3280_Assignment3.Properties.Resources.resources
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\CS3280-Assignment3\CS3280-Assignment3\obj\Debug\CS3280-Assignment3.csproj.GenerateResource.Cache
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\CS3280-Assignment3\CS3280-Assignment3\bin\Debug\CS3280-Assignment3.exe
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\CS3280-Assignment3\CS3280-Assignment3\bin\Debug\CS3280-Assignment3.pdb
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\CS3280-Assignment3\CS3280-Assignment3\obj\Debug\CS3280-Assignment3.exe
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\CS3280-Assignment3\CS3280-Assignment3\obj\Debug\CS3280-Assignment3.pdb
