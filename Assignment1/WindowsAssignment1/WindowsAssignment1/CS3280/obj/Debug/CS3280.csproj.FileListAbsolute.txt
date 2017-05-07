@@ -1,0 +1,8 @@
+c:\users\css109240\documents\visual studio 2015\Projects\CS3280\CS3280\bin\Debug\CS3280.exe.config
+c:\users\css109240\documents\visual studio 2015\Projects\CS3280\CS3280\bin\Debug\CS3280.exe
+c:\users\css109240\documents\visual studio 2015\Projects\CS3280\CS3280\bin\Debug\CS3280.pdb
+c:\users\css109240\documents\visual studio 2015\Projects\CS3280\CS3280\obj\Debug\CS3280.csprojResolveAssemblyReference.cache
+c:\users\css109240\documents\visual studio 2015\Projects\CS3280\CS3280\obj\Debug\CS3280.Properties.Resources.resources
+c:\users\css109240\documents\visual studio 2015\Projects\CS3280\CS3280\obj\Debug\CS3280.csproj.GenerateResource.Cache
+c:\users\css109240\documents\visual studio 2015\Projects\CS3280\CS3280\obj\Debug\CS3280.exe
+c:\users\css109240\documents\visual studio 2015\Projects\CS3280\CS3280\obj\Debug\CS3280.pdb

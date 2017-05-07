@@ -1,0 +1,12 @@
+c:\users\css109240\documents\visual studio 2015\Projects\ConsoleAssignment1\ConsoleAssignment1\bin\Debug\ConsoleAssignment1.exe.config
+c:\users\css109240\documents\visual studio 2015\Projects\ConsoleAssignment1\ConsoleAssignment1\bin\Debug\ConsoleAssignment1.exe
+c:\users\css109240\documents\visual studio 2015\Projects\ConsoleAssignment1\ConsoleAssignment1\bin\Debug\ConsoleAssignment1.pdb
+c:\users\css109240\documents\visual studio 2015\Projects\ConsoleAssignment1\ConsoleAssignment1\obj\Debug\ConsoleAssignment1.csprojResolveAssemblyReference.cache
+c:\users\css109240\documents\visual studio 2015\Projects\ConsoleAssignment1\ConsoleAssignment1\obj\Debug\ConsoleAssignment1.exe
+c:\users\css109240\documents\visual studio 2015\Projects\ConsoleAssignment1\ConsoleAssignment1\obj\Debug\ConsoleAssignment1.pdb
+C:\Users\hcao\Downloads\ConsoleAssignment1\ConsoleAssignment1\ConsoleAssignment1\bin\Debug\ConsoleAssignment1.exe.config
+C:\Users\hcao\Downloads\ConsoleAssignment1\ConsoleAssignment1\ConsoleAssignment1\obj\Debug\ConsoleAssignment1.exe
+C:\Users\hcao\Downloads\ConsoleAssignment1\ConsoleAssignment1\ConsoleAssignment1\obj\Debug\ConsoleAssignment1.pdb
+C:\Users\hcao\Downloads\ConsoleAssignment1\ConsoleAssignment1\ConsoleAssignment1\bin\Debug\ConsoleAssignment1.exe
+C:\Users\hcao\Downloads\ConsoleAssignment1\ConsoleAssignment1\ConsoleAssignment1\bin\Debug\ConsoleAssignment1.pdb
+C:\Users\hcao\Downloads\ConsoleAssignment1\ConsoleAssignment1\ConsoleAssignment1\obj\Debug\ConsoleAssignment1.csprojResolveAssemblyReference.cache
