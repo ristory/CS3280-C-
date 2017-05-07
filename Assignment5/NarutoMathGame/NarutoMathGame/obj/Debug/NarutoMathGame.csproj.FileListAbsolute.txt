@@ -1,0 +1,30 @@
+c:\users\hcao\documents\visual studio 2015\Projects\NarutoMathGame\NarutoMathGame\bin\Debug\NarutoMathGame.exe.config
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.csprojResolveAssemblyReference.cache
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.HighScores.resources
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.Form1.resources
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.Playgame.resources
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.Properties.Resources.resources
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.UserInformation.resources
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.csproj.GenerateResource.Cache
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\bin\Debug\NarutoMathGame.exe
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\bin\Debug\NarutoMathGame.pdb
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.exe
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.pdb
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\bin\Debug\source\naruto10.jpg
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\bin\Debug\source\Jiraiya_pose.png
+C:\Users\hcao\Documents\Visual Studio 2015\Projects\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.FinalScore.resources
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\bin\Debug\NarutoMathGame.exe.config
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.exe
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.pdb
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\bin\Debug\source\Jiraiya_pose.png
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\bin\Debug\source\naruto10.jpg
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\bin\Debug\NarutoMathGame.exe
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\bin\Debug\NarutoMathGame.pdb
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.csprojResolveAssemblyReference.cache
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.HighScores.resources
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.Form1.resources
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.Playgame.resources
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.Properties.Resources.resources
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.UserInformation.resources
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\obj\Debug\NarutoMathGame.csproj.GenerateResource.Cache
+C:\Users\ristory\Downloads\NarutoMathGame\NarutoMathGame\NarutoMathGame\bin\Debug\source\naruto13.jpg
